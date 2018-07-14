@@ -1,0 +1,44 @@
+.App{
+
+text-align: center;
+font-size: 30px;
+margin-top: 20%;
+padding: 2px;
+
+}
+
+.heading{
+  margin-bottom: 6%;
+  font-family: sans-serif;
+  border:   0.2px solid ;
+ padding: 10px;
+ background: aliceblue;
+
+}
+
+.heading:hover{
+
+  background:aqua;
+  border: 1px solid;
+  padding: 8px;
+  
+ 
+}
+
+
+
+.days , .hours ,.minutes , .seconds {
+  display:inline;
+  margin:5px;
+
+
+}
+
+
+
+
+.form{
+  border:1px solid black;
+  margin: 5px;
+  
+}
